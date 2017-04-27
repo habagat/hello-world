@@ -1,2 +1,6 @@
 Testing ulit using newly created file
+<<<<<<< HEAD
 Sinulatan sa alienware!
+=======
+Sinulatan sa github!
+>>>>>>> 95e90e3f55ead6f9bf8103607e9a91fc9097b5e4

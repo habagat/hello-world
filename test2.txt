@@ -3,9 +3,7 @@ Sinulatan sa alienware!
 Sinulatan sa github!
 Eh di susulatan ko ulit dito sa alienware!
 Sulatan ko kaya ulit dito sa github!
-<<<<<<< HEAD
-Sulat sa alienware 01
 
-=======
+Sulat sa alienware 01
 Sulat sa github 01
->>>>>>> 7e400fbdd6d9982765fb58141948b2cc6ce1d03b
+

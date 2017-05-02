@@ -20,13 +20,7 @@ Sulat sa github 01
 06 modify using Github Desktop
 
 07 modify using GitHub Website
-<<<<<<< HEAD
 
 08 GitHub Desktop
 
 09 modify using GitHub Website
-
-10 this is the new branch 
-
-=======
->>>>>>> parent of e7cabae... GitHub Desktop

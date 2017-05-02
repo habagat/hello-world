@@ -17,3 +17,5 @@ Sulat sa github 01
 
 05 modify using GitHub Website
 
+06 modify using Github Desktop
+

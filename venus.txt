@@ -2,3 +2,4 @@ from venus
 
 Hi ms venus! ok na ba?
 Hi wens ok na!
+ok na talaga naka pag commit na ako!
